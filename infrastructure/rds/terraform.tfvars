@@ -1,3 +1,3 @@
-profile="josue.sarabia"
-password="eeLoosh1uzaeng2PAhmiaP3XjooRaiB2aip1QuieYo1ooCo6"
+profile="PUT YOUR AWS USERNAME HERE"
+password="PUT YOUR GENERATED DB PASSWORD"
 id="django-rds"

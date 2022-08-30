@@ -1,0 +1,2 @@
+database_url = "PUT YOUR DATABASE URL HERE"
+image = "INSERT YOUR IMAGE NAME HERE"
