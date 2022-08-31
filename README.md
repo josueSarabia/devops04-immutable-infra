@@ -1,6 +1,7 @@
 # devops04-immutable-infra
 
-this project is made to run on minikube but you can configure it to run in aws.
+this project use terraform to deploy a postgres database(aws rds) and a kubernetes cluster.
+Note: this project is made to run on minikube but you can configure it to run in aws.
 
 # Set-up
 
